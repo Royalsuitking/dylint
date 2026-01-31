@@ -281,3 +281,4 @@ Put another way, we strive to preserve Dylint's MSRV when releasing bug fixes, a
 [toml table]: https://toml.io/en/v1.0.0#table
 [video]: https://www.youtube.com/watch?v=MjlPUA7sAmA
 [workspace metadata]: #workspace-metadata
+docs: fix typos and clarify instructions
