@@ -282,3 +282,8 @@ Put another way, we strive to preserve Dylint's MSRV when releasing bug fixes, a
 [video]: https://www.youtube.com/watch?v=MjlPUA7sAmA
 [workspace metadata]: #workspace-metadata
 docs: fix typos and clarify instructions
+## Quick Links
+
+- [Official Docs](https://github.com/trailofbits/dylint/docs)
+- [Examples](https://github.com/trailofbits/dylint/examples)
+- [Test Coverage](https://trailofbits.github.io/dylint/coverage/index.html)
